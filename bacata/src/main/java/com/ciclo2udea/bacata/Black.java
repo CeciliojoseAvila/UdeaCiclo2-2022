@@ -1,6 +1,7 @@
 package com.ciclo2udea.bacata;
-
+//ahora h
 public class Black extends Bacata{
+    // Ahora haré un comentario, porque estoy probando intelliJ con GitHub
     private String[] beneficios={"Maleta gratis","Bebida en Avion", "Sala VIP"};
     private boolean[] estadoBeneficios={true,true,true};
 
@@ -32,6 +33,6 @@ public class Black extends Bacata{
         this.estadoBeneficios = estadoBeneficios;
     }
  
- 
+ //probando intelliJ con GitHub
     
 }
